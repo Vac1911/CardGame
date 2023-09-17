@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6tr0ng9285NaqqUIDhzi5BuxYHNJYnJKjaszarkO+OZvoZ3wPA9dwL6Q0uKD4XOHJxbqNYwiWiQWlHqtFE86g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vac\\Documents\\NinjaGame\\NinjaGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vac\\.nuget\\packages\\godot.sourcegenerators\\4.1.1\\godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "C:\\Users\\Vac\\.nuget\\packages\\godotsharp\\4.1.1\\godotsharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\Vac\\.nuget\\packages\\godotsharpeditor\\4.1.1\\godotsharpeditor.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

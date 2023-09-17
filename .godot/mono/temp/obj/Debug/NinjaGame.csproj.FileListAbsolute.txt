@@ -1,0 +1,17 @@
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\NinjaGame.deps.json
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\NinjaGame.runtimeconfig.json
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\NinjaGame.dll
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\NinjaGame.pdb
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.csproj.AssemblyReference.cache
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.AssemblyInfoInputs.cache
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.AssemblyInfo.cs
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.csproj.CoreCompileInputs.cache
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.csproj.CopyComplete
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.dll
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\refint\NinjaGame.dll
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.pdb
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\NinjaGame.genruntimeconfig.cache
+C:\Users\Vac\Documents\NinjaGame\.godot\mono\temp\obj\Debug\ref\NinjaGame.dll
